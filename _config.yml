@@ -1,23 +1,22 @@
-title:            Jordi Pont-Tuset's site
+title:            Patrick Stuedi
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              //jponttuset.github.io
+url:              "https://patrickstuedi.github.io"
 #http://localhost:5000
-#https://jponttuset.github.io
-disqus_shortname: jponttuset
+disqus_shortname: patrickstuedi
 
 # Owner/author information
 owner:
-  name:           Jordi Pont-Tuset
-  avatar:         jordi.png
+  name:           Patrick Stuedi
+  avatar:         patrickstuedi.jpeg
   bio:            I'm from a small town near Girona, Catalunya. Currently in Zürich, Switzerland. Passionate about computer vision, technology, running, and mountains.
-  email:          jponttuset@gmail.com
+  email:          pstuedi@apache.org
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: jponttuset
-  linkedin: jponttuset
-  google_scholar: VCBBx24AAAAJ
+  twitter: pstuedi
+  linkedin: patrick-stuedi-57a69520
+  google_scholar: T_8XkMEAAAAJ
   google_plus: 113718226018314522413
-  github: jponttuset
+  github: patrickstuedi
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-52736040-1
 google_verify:

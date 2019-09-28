@@ -9,13 +9,13 @@ disqus_shortname: patrickstuedi
 owner:
   name:           Patrick Stuedi
   avatar:         patrickstuedi.jpeg
-  bio:            I'm from a small town near Girona, Catalunya. Currently in Zürich, Switzerland. Passionate about computer vision, technology, running, and mountains.
+  bio:            Researcher. Systems builder.
   email:          pstuedi@apache.org
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: pstuedi
   linkedin: patrick-stuedi-57a69520
   google_scholar: T_8XkMEAAAAJ
-  google_plus: 113718226018314522413
+  #google_plus: 113718226018314522413
   github: patrickstuedi
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-52736040-1

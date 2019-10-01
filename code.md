@@ -1,43 +1,25 @@
 ---
 layout: page
 permalink: /code/
-title: Some Code I've Written
+title: Code
 tags: [code]
 modified: 3-10-2014
 comments: false
 ---
 
 
-It all started when my father taught me some notions of Visual Basic, and with the priceless help of the code completion tool (yeah, no Google at that time). Since then, I've been enjoying coding and here you can find some of the programs I've written.
+### Apache Crail
 
-### Research
+Crail is a distributed data store designed from scratch for fast networking hardware (100Gb/s RoCE, IB) and byte addresssable storage (DRAM, NVMe Flash). Crail leverages user-level I/O (RDMA, NVMe-oF) to achieve ultra low data access latencies, high IOPS and line speed bandwidth. Crail can be used to accelerate data access in distributed data processing and machine learning frameworks like Spark, Tensorflow, PyTorch, etc. 
 
-* [**Convolutional Oriented Boundaries**](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/)<br>
-State of the art in contour detection, hierarchical segmentation, and object proposals. Runs in 700 miliseconds on a GPU and a single CPU thread, thanks to a novel sparse representation of the segmentation results. From our ECCV 2016 paper.
+### DaRPC
 
-* [**Multiscale Combinatorial Grouping**](http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/)<br>
-Method for producing segmented object proposals, state of the art pre deep learning. Given an image, it computes around 5000 proposals of segmented objects in less than 30 seconds on a single thread. From our CVPR 2014 and TPAMI 2016 papers.
+DaRPC is an RDMA based RPC framework designed to provide ultra-low latencies. DaRPC efficiently distributes computation, network resources and RPC resources across cores and memory to achieve a high aggregate throughput (2-3M ops/sec) at a very low per-request latency (5μs with Infiniband). DaRPC is used by Crail to communicate between the Crail metadata server and Crail clients. 
 
-* [**SEISM: Supervised Evaluation of Image Segmentation Methods**](http://www.vision.ee.ethz.ch/~biwiproposals/seism/index.html)<br>
-Toolbox to benchmark image segmentation methods, including our newly-proposed objects and parts measure. From our PAMI 2015 and CVPR 2013 papers.
+### DiSNI
 
-* [**Supervised Assessment of Segmentation Hierarchies**](https://imatge.upc.edu/web/resources/supervised-assessment-segmentation-hierarchies)<br>
-Toolbox to find the best cuts in a hierarchy of regions using combinatorial optimization and solved by CPLEX. From our ECCV 2012 paper.
- 
-### Didactical
+DiSNI is a Java library for direct storage and networking access from userspace. It provides an RDMA interface to access remote memory. DiSNI enables the development of Java applications for high performance RDMA networks, such as InfiniBand, iWARP, or RoCE. The RDMA API is implemented based on the Open Fabrics Enterprise Distribution (OFED) RDMA user libraries. It provides RDMA semantics including asynchronous operations, zero-copy transmission and direct data placement. 
 
-* [**Solving Sudokus like a Pro**](http://jponttuset.github.io/solving-sudokus-like-a-pro-1/)<br>
-Code to capture a camera feed, locate a Sudoku grid, find and recognize the numbers, solve it in real time, and overlay the results.
+### NaRPC
 
-* [**Web Scraping**](http://jponttuset.github.io/deep-learning-scraping/)<br>
-Demo to answer whether deep learning is indeed in fashion in computer vision. The code scrapes the paper titles of latest vision conferences from the web and computes the percentage of *deep-learning-related* papers.
-
-### Web
-
-* [**Boosting Object Proposals: From Pascal to COCO**](http://www.vision.ee.ethz.ch/~biwiproposals/boosting-coco/)<br>
-Webpage to showcase the results of our publication. It involved a decent amount of JavaScript, D3.js, PHP, and MySQL.
-
-* [**DAVIS Dataset**](https://graphics.ethz.ch/~perazzif/davis/index.html)<br>
-Webpage to showcase the benchmark results of DAVIS and browse results. Again: JavaScript, D3.js, PHP, and MySQL.
-
-
+NaRPC is a simple TCP based RPC library. 

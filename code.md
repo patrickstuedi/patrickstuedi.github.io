@@ -12,6 +12,9 @@ comments: false
 
 Crail is a distributed data store designed from scratch for fast networking hardware (100Gb/s RoCE, IB) and byte addresssable storage (DRAM, NVMe Flash). Crail leverages user-level I/O (RDMA, NVMe-oF) to achieve ultra low data access latencies, high IOPS and line speed bandwidth. Crail can be used to accelerate data access in distributed data processing and machine learning frameworks like Spark, Tensorflow, PyTorch, etc. 
 
+* Github: https://github.com/apache/incubator-crail
+* Website: https://crail.apache.org
+
 ### DaRPC
 
 DaRPC is an RDMA based RPC framework designed to provide ultra-low latencies. DaRPC efficiently distributes computation, network resources and RPC resources across cores and memory to achieve a high aggregate throughput (2-3M ops/sec) at a very low per-request latency (5μs with Infiniband). DaRPC is used by Crail to communicate between the Crail metadata server and Crail clients. 

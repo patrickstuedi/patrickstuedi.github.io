@@ -19,7 +19,6 @@ Currently, I'm working on a new storage platform for efficient ML training on di
 <p>
 Earlier, I developed DiSNI, a zero-copy RDMA-based network stack for the JVM, DaRPC, a ultra-low latency RPC library also for the JVM, and jVerbs, an RDMA-based network stack and precurser of DiSNI, which is part of the IBM JDK since May 2014.
 </p>
-<p>
 </div>
 
 ### News

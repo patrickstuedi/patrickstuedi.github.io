@@ -11,11 +11,15 @@ I like building hardware-aware software and distributed systems. Here is a list 
 
 ### Apache Crail
 
-Crail is a distributed data store designed from scratch for fast networking hardware (100Gb/s RoCE, IB) and byte addresssable storage (DRAM, NVMe Flash). Crail leverages user-level I/O (RDMA, NVMe-oF) to achieve ultra low data access latencies, high IOPS and line speed bandwidth. Crail can be used to accelerate data access in distributed data processing and machine learning frameworks like Spark, Tensorflow, PyTorch, etc. 
+Crail is a distributed data store for ephemeral data designed from scratch for fast networking hardware (100Gb/s RoCE, IB) and byte addresssable storage (DRAM, NVMe Flash). Crail leverages user-level I/O (RDMA, NVMe-oF) to achieve ultra low data access latencies, high IOPS and line speed bandwidth. Crail can be used to accelerate data access in distributed data processing like Spark, Presto, Hive, etc. 
 <br><br>
 [https://github.com/apache/incubator-crail](https://github.com/apache/incubator-crail)
 <br>
 [https://crail.apache.org](https://crail.apache.org)
+
+### Crail Native
+
+Crail Native is a C++/Python implementation of Crail geared towards fast distributed temporary storage in machine learning worklflows. Crail native is compatible with Apache Crail and bridges the storage gap between Java/Scala based data processing frameworks like Spark or Presto, and native machine learning frameworks like Tensorflow or PyTorch. 
 
 ### DiSNI
 

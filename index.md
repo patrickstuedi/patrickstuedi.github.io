@@ -10,7 +10,6 @@ image:
 <p>
 I'm a member of the research staff at IBM research Zurich. My research interests are in distributed systems, networking and operating systems. I graduated with a PhD from ETH Zurich in 2008 and spent two years (2008-2010) as a Postdoc at Microsoft Research Silicon Valley. 
 </p>
-<br>
 <p>
 The general theme of my work is to explore how modern networking and storage hardware can be exploited in distributed systems. Over the last years, I've been working on Crail, a fast distributed data store designed from ground up for fast storage (DRAM, NVMe, PCM) and networking hardware (100Gb/s RDMA, NVMf). Crail is built upon principles of user-level I/O and primarily targets fast sharing of ephemeral data in distributed data processing workloads (Spark, Tensforflow, serverless workloads, etc.).
 </p>

@@ -46,12 +46,12 @@ USENIX ATC'20, ASPLOS'20 (ERC), USENIX ATC'19, ASPLOS'19 (ERC), USENIX ATC'18, S
 
 I have been co-teaching the following courses:
 
-  * **Advanced Computer Networks**, Fall Semester 2018, ETH Zurich
-  * **Advanced Computer Networks**, Fall Semester 2017, ETH Zurich
-  * [**Advanced Computer Networks**, Fall Semster 2016, ETH Zurich](https://www.systems.ethz.ch/courses/spring2016/acn)
-  * **Advanced Computer Networks**, Fall Semster 2015, ETH Zurich
-  * [**Advanced Computer Networks**, Fall Semester 2014, ETH Zurich](https://www.systems.ethz.ch/courses/spring2014/acn)
-  * [**Advanced Computer Networks**, Fall Semster 2013, ETH Zurich](https://www.systems.ethz.ch/courses/spring2013/acn)
-  * [**Advanced Computer Networks**, Fall Semester 2012, ETH Zurich](http://archive.systems.ethz.ch/www.systems.ethz.ch/education/spring-2012/adv-comp-netw.html)
-  * [**Advanced Computer Networks**, Fall Semster 2011, ETH Zurich](http://archive.systems.ethz.ch/www.systems.ethz.ch/education/fs11/advanced-computer-networks.html)
+  * **Advanced Computer Networks**, Spring Semester 2018, ETH Zurich
+  * **Advanced Computer Networks**, Spring Semester 2017, ETH Zurich
+  * [**Advanced Computer Networks**, Spring Semster 2016, ETH Zurich](https://www.systems.ethz.ch/courses/spring2016/acn)
+  * **Advanced Computer Networks**, Spring Semster 2015, ETH Zurich
+  * [**Advanced Computer Networks**, Spring Semester 2014, ETH Zurich](https://www.systems.ethz.ch/courses/spring2014/acn)
+  * [**Advanced Computer Networks**, Spring Semster 2013, ETH Zurich](https://www.systems.ethz.ch/courses/spring2013/acn)
+  * [**Advanced Computer Networks**, Spring Semester 2012, ETH Zurich](http://archive.systems.ethz.ch/www.systems.ethz.ch/education/spring-2012/adv-comp-netw.html)
+  * [**Advanced Computer Networks**, Spring Semster 2011, ETH Zurich](http://archive.systems.ethz.ch/www.systems.ethz.ch/education/fs11/advanced-computer-networks.html)
 

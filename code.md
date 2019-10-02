@@ -7,7 +7,7 @@ modified: 3-10-2014
 comments: false
 ---
 
-I like building hardware-aware software and distributed systems. Here is a list of my current and recent projects:
+I like building hardware-aware software and distributed systems. Here is a list of my current and recent projects with code I have written over the years:
 
 ### Apache Crail
 

@@ -17,17 +17,17 @@ Crail is a distributed data store designed from scratch for fast networking hard
 <br>
 [https://crail.apache.org](https://crail.apache.org)
 
-### DaRPC
-
-DaRPC is an RDMA based RPC framework designed to provide ultra-low latencies. DaRPC efficiently distributes computation, network resources and RPC resources across cores and memory to achieve a high aggregate throughput (2-3M ops/sec) at a very low per-request latency (5μs with Infiniband). DaRPC is used by Crail to communicate between the Crail metadata server and Crail clients. 
-<br><br>
-[https://github.com/zrlio/darpc](https://github.com/zrlio/darpc)
-
 ### DiSNI
 
 DiSNI is a Java library for direct storage and networking access from userspace. It provides an RDMA interface to access remote memory. DiSNI enables the development of Java applications for high performance RDMA networks, such as InfiniBand, iWARP, or RoCE. The RDMA API is implemented based on the Open Fabrics Enterprise Distribution (OFED) RDMA user libraries. It provides RDMA semantics including asynchronous operations, zero-copy transmission and direct data placement. 
 <br><br>
 [https://github.com/zrlio/disni](https://github.com/zrlio/disni)
+
+### DaRPC
+
+DaRPC is an RDMA based RPC framework designed to provide ultra-low latencies. DaRPC efficiently distributes computation, network resources and RPC resources across cores and memory to achieve a high aggregate throughput (2-3M ops/sec) at a very low per-request latency (5μs with Infiniband). DaRPC is used by Crail to communicate between the Crail metadata server and Crail clients. 
+<br><br>
+[https://github.com/zrlio/darpc](https://github.com/zrlio/darpc)
 
 ### Spark-IO
 

@@ -38,6 +38,6 @@ Crail-Spark-IO contains various I/O accleration plugins for Spark tailored to hi
 
 ### NaRPC
 
-NaRPC is a simple TCP based RPC library. 
+NaRPC is a simple TCP based RPC library. NaRPC follows the same design as DaRPC where client requests are served by per-core handlers in-place, that is, without additional thread-pool. Therefore, similar to DaRPC, NaRPC is useful for small size RPC requests that require little computation on the server side and where high total throughput and low latency are the desired performance targets. 
 <br><br>
 [https://github.com/zrlio/narpc](https://github.com/zrlio/narpc)

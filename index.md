@@ -6,9 +6,6 @@ tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: trees.jpg
 ---
-I'm a member of the research staff at IBM research Zurich. My research interests are in distributed systems, networking and operating systems. I graduated with a PhD from ETH Zurich in 2008 and spent two years (2008-2010) as a Postdoc at Microsoft Research Silicon Valley.
-{: style="text-align: justify"} 
-
 I'm a member of the research staff at IBM research Zurich. My research interests are in distributed systems, networking and operating systems. I graduated with a PhD from ETH Zurich in 2008 and spent two years (2008-2010) as a Postdoc at Microsoft Research Silicon Valley. 
 {: style="text-align: justify"} 
 

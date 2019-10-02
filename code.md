@@ -20,21 +20,18 @@ Crail is a distributed data store designed from scratch for fast networking hard
 ### DaRPC
 
 DaRPC is an RDMA based RPC framework designed to provide ultra-low latencies. DaRPC efficiently distributes computation, network resources and RPC resources across cores and memory to achieve a high aggregate throughput (2-3M ops/sec) at a very low per-request latency (5μs with Infiniband). DaRPC is used by Crail to communicate between the Crail metadata server and Crail clients. 
-
 <br><br>
 [https://github.com/zrlio/darpc](https://github.com/zrlio/darpc)
 
 ### DiSNI
 
 DiSNI is a Java library for direct storage and networking access from userspace. It provides an RDMA interface to access remote memory. DiSNI enables the development of Java applications for high performance RDMA networks, such as InfiniBand, iWARP, or RoCE. The RDMA API is implemented based on the Open Fabrics Enterprise Distribution (OFED) RDMA user libraries. It provides RDMA semantics including asynchronous operations, zero-copy transmission and direct data placement. 
-
 <br><br>
 [https://github.com/zrlio/disni](https://github.com/zrlio/disni)
 
 ### Spark-IO
 
 Crail-Spark-IO contains various I/O accleration plugins for Spark tailored to high-performance network and storage hardware (RDMA, NVMef, etc.). Spark-IO is based on Crail, a fast multi-tiered distributed storage system. Spark-IO currently contains two IO plugins: a shuffle engine and a broadcast module. Both plugins inherit all the benefits of Crail such as very high performance (throughput and latency) and multi-tiering (e.g., DRAM and flash).
-
 <br><br>
 [https://github.com/zrlio/crail-spark-io](https://github.com/zrlio/crail-spark-io)
 
@@ -42,6 +39,5 @@ Crail-Spark-IO contains various I/O accleration plugins for Spark tailored to hi
 ### NaRPC
 
 NaRPC is a simple TCP based RPC library. 
-
 <br><br>
 [https://github.com/zrlio/narpc](https://github.com/zrlio/narpc)

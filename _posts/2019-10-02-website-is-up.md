@@ -5,4 +5,3 @@ category: news
 tags: whatsnew
 permalink: /website-is-up
 ---
-## The website is up!!

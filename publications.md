@@ -63,13 +63,37 @@ You can also browse my <a href="https://scholar.google.com/citations?user=T_8XkM
 
   * **Contrail: Enabling Decentralized Social Networks on Smartphones**, Patrick Stuedi, Iqbal Mohomed, Mahesh Balakrishnan, Zhuoqing Morley Mao, Venugopalan Ramasubramanian, Doug Terry, *ACM Middleware 2011*, Lisboa, Portugal
 
+## 2010
+
   * **Dox2go: collaborative editing of fidelity reduced documents on mobile devices**, Krishna PN Puttaswamy, Catherine C Marshall, Venugopalan Ramasubramanian, Patrick Stuedi, Doug Terry, *ACM MobiSys 2010*, June 2010, San Francisco, CA, USA
+
+  * **Wherestore: Location-based data storage for mobile devices interacting with the cloud**, Patrick Stuedi, Iqbal Mohomed, Doug Terry, *ACM MCS'10*, June 2010, San Francisco, CA, USA
+
+## 2009
+
+  * **The Duality between Message Routing and Epidemic Data Replication.**, Peter Gilbert, Venugopalan Ramasubramanian, Patrick Stuedi, Douglas B Terry, *HotNets 2009*, October 2009, New York, NY, USA
+
+  * **Enabling social networking in ad hoc networks of mobile phones**, Emre Sarigöl, Oriana Riva, Patrick Stuedi, Gustavo Alonso, Proceedings of the *VLDB Endowment 2009*
+
+## 2008
+
+  * **Understanding radio irregularity in wireless networks**, Torsten Muetze, Patrick Stuedi, Fabian Kuhn, Gustavo Alonso, *IEEE SECON 2008*, San Francisco, CA, USA
+
+## 2007
 
   * **SIPHoc: Efficient SIP Middleware for ad hoc networks**, Patrick Stuedi, Marcel Bihr, Alain Remund, Gustavo Alonso, *ACM Middlware 2007*, Newport Beach, CA, USA
 
+  * **Recall and precision in distributed bandwidth allocation**, Patrick Stuedi, Gustavo Alonso, *IEEE IWQoS 2007*
 
-<hr>
-## Technical Reports
+  * **Log-normal shadowing meets SINR: A numerical study of Capacity in Wireless Networks**, Patrick Stuedi, Gustavo Alonso, *IEEE SECON 2007*
 
-  * **jVerbs: RDMA support for Java**, Patrick Stuedi, Bernard Metzler, Animesh Trivedi. IBM Technical Report Number RZ3845. [[PDF]](http://domino.research.ibm.com/library/cyberdig.nsf/papers/4BCF9F3B8E5A3B9D85257FF100271295)
+## 2006
+
+  * **Computing throughput capacity for realistic wireless multihop networks**, Patrick Stuedi, Gustavo Alonso, *ACM MSWiM 2006*
+
+## 2004
+
+  * **Transparent heterogeneous mobile ad hoc networks**, Patrick Stuedi, Gustavo Alonso, *MobiQuitous 2005*
+
+  * **Connectivity in the presence of shadowing in 802.11 ad hoc networks**, Patrick Stuedi, Oscar Chinellato, Gustavo Alonso, *IEEE Wireless Communications and Networking 2005*
 

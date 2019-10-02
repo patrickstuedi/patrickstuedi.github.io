@@ -30,3 +30,16 @@ I'm a member of the research staff at IBM research Zurich. My research interests
 <p><a href="{{ site.base }}/news/">more posts&hellip;</a></p>
 {% endif %}
 
+### Recent Talks
+
+  * **Unification of Temporary Storage in the NodeKernel Architecture**, *USENIX ATC 19*, Renton, WA, USA, July 2019.
+
+  * **Data Processing at the Speed of 100Gpbs using Apache Crail**, *Oreilly Strata*, San Francisco, CA, USA, Februrary 2019.
+
+  * **COMPASS Talk about Apache Crail**, *ETH Zurich*, Zurich, Switzerland, September 2018.
+
+  * **Serverless Machine Learning on Modern Hardware Using Apache Spark**, *Spark Summit*, San Francisco, CA, June 2018.
+
+  * **Running Apache Spark on a High-Performance Cluster Using RDMA and NVMe Flash**, *Spark Summit*, San Francisco, CA, June 2017.
+  
+

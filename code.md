@@ -19,7 +19,7 @@ Crail is a distributed data store for ephemeral data designed from scratch for f
 
 ### Crail Native
 
-Crail Native is a C++/Python implementation of Crail geared towards fast distributed temporary storage in machine learning worklflows. Crail native is compatible with Apache Crail and bridges the storage gap between Java/Scala based data processing frameworks like Spark or Presto, and native machine learning frameworks like Tensorflow or PyTorch. 
+Crail Native is a C++/Python implementation of Crail geared towards fast distributed temporary storage in machine learning worklflows. Crail native is compatible with Apache Crail and can be used as temporary storage space in job pipelines consisting of different frameworks. For instance, in a image recognition model training worklflow a Spark job may be used to pre-process raw image data and store it on Apache Crail, followed by a distributed Tensorflow job running the actual training using Crail Native to access the pre-processed data set.  
 
 ### DiSNI
 
@@ -45,3 +45,10 @@ Crail-Spark-IO contains various I/O accleration plugins for Spark tailored to hi
 NaRPC is a simple TCP based RPC library. NaRPC follows the same design as DaRPC where client requests are served by per-core handlers in-place, that is, without additional thread-pool. Therefore, similar to DaRPC, NaRPC is useful for small size RPC requests that require little computation on the server side and where high total throughput and low latency are the desired performance targets. 
 <br><br>
 [https://github.com/zrlio/narpc](https://github.com/zrlio/narpc)
+
+### Crail YCSB Benchmark
+
+Crail YCSB is a module in the official YCSB benchmark suite. It can be used to benchmark the key-value interface in Crail.
+<br><br>
+[Crail-YCSB-module](https://github.com/brianfrankcooper/YCSB/tree/master/crail)
+

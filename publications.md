@@ -23,9 +23,9 @@ You can also browse my <a href="https://scholar.google.com/citations?user=T_8XkM
 
 ## 2017
 
-  * **FlashNet: Flash/Network Stack Co-Design**, (Best paper award!) Animesh Trivedi, Nikolas Ioannou, Bernard Metzler, Patrick Stuedi, Jonas Pfefferle, Ioannis Koltsidas, Kornilios Kourtis, Thomas R. Gross. Proceedings of the *10th ACM International Systems and Storage Conference (SYSTOR’17)*, Haifa, Israel, May, 2017.
+  * [**FlashNet: Flash/Network Stack Co-Design**](https://dl.acm.org/citation.cfm?id=3078477), (Best paper award!) Animesh Trivedi, Nikolas Ioannou, Bernard Metzler, Patrick Stuedi, Jonas Pfefferle, Ioannis Koltsidas, Kornilios Kourtis, Thomas R. Gross. Proceedings of the *10th ACM International Systems and Storage Conference (SYSTOR’17)*, Haifa, Israel, May, 2017.
 
-  * **Crail: A High-Performance I/O Architecture for Distributed Data Processing**, Patrick Stuedi, Animesh Trivedi, Jonas Pfefferle, Radu Stoica, Bernard Metzler, Nikolas Ioannou, Ioannis Koltsidas. In *the IEEE Bulletin of the Technical Committee on Data Engineering*, Special Issue on Distributed Data Management with RDMA, Volume 40, pages 40-52, March, 2017.
+  * **[Crail: A High-Performance I/O Architecture for Distributed Data Processing](http://sites.computer.org/debull/A17mar/p38.pdf)**, Patrick Stuedi, Animesh Trivedi, Jonas Pfefferle, Radu Stoica, Bernard Metzler, Nikolas Ioannou, Ioannis Koltsidas. In *the IEEE Bulletin of the Technical Committee on Data Engineering*, Special Issue on Distributed Data Management with RDMA, Volume 40, pages 40-52, March, 2017.
 
 ## 2016
 

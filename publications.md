@@ -83,17 +83,17 @@ You can also browse my <a href="https://scholar.google.com/citations?user=T_8XkM
 
   * [**SIPHoc: Efficient SIP Middleware for ad hoc networks**](https://dl.acm.org/citation.cfm?id=1516130), Patrick Stuedi, Marcel Bihr, Alain Remund, Gustavo Alonso, *ACM Middlware 2007*, Newport Beach, CA, USA
 
-  * **Recall and precision in distributed bandwidth allocation**, Patrick Stuedi, Gustavo Alonso, *IEEE IWQoS 2007*
+  * [**Recall and precision in distributed bandwidth allocation**](https://ieeexplore.ieee.org/document/4262463), Patrick Stuedi, Gustavo Alonso, *IEEE IWQoS 2007*
 
-  * **Log-normal shadowing meets SINR: A numerical study of Capacity in Wireless Networks**, Patrick Stuedi, Gustavo Alonso, *IEEE SECON 2007*
+  * [**Log-normal shadowing meets SINR: A numerical study of Capacity in Wireless Networks**](https://ieeexplore.ieee.org/document/4292867), Patrick Stuedi, Gustavo Alonso, *IEEE SECON 2007*
 
 ## 2006
 
-  * **Computing throughput capacity for realistic wireless multihop networks**, Patrick Stuedi, Gustavo Alonso, *ACM MSWiM 2006*
+  * [**Computing throughput capacity for realistic wireless multihop networks**](https://dl.acm.org/citation.cfm?id=1164752), Patrick Stuedi, Gustavo Alonso, *ACM MSWiM 2006*
 
 ## 2004
 
-  * **Transparent heterogeneous mobile ad hoc networks**, Patrick Stuedi, Gustavo Alonso, *MobiQuitous 2005*
+  * [**Transparent heterogeneous mobile ad hoc networks**](https://ieeexplore.ieee.org/document/1541004), Patrick Stuedi, Gustavo Alonso, *MobiQuitous 2005*
 
-  * **Connectivity in the presence of shadowing in 802.11 ad hoc networks**, Patrick Stuedi, Oscar Chinellato, Gustavo Alonso, *IEEE Wireless Communications and Networking 2005*
+  * [**Connectivity in the presence of shadowing in 802.11 ad hoc networks**](https://ieeexplore.ieee.org/document/1424862), Patrick Stuedi, Oscar Chinellato, Gustavo Alonso, *IEEE Wireless Communications and Networking 2005*
 

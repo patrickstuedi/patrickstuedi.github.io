@@ -1,7 +1,7 @@
 ---
 layout: post-index
 permalink: /blog/
-title: All Posts
+title: No posts yet
 tagline: A List of Posts
 tags: [blog]
 comments: false

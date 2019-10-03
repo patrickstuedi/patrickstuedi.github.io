@@ -77,11 +77,11 @@ You can also browse my <a href="https://scholar.google.com/citations?user=T_8XkM
 
 ## 2008
 
-  * **Understanding radio irregularity in wireless networks**, Torsten Muetze, Patrick Stuedi, Fabian Kuhn, Gustavo Alonso, *IEEE SECON 2008*, San Francisco, CA, USA
+  * [**Understanding radio irregularity in wireless networks**](https://ieeexplore.ieee.org/document/4557743), Torsten Muetze, Patrick Stuedi, Fabian Kuhn, Gustavo Alonso, *IEEE SECON 2008*, San Francisco, CA, USA
 
 ## 2007
 
-  * **SIPHoc: Efficient SIP Middleware for ad hoc networks**, Patrick Stuedi, Marcel Bihr, Alain Remund, Gustavo Alonso, *ACM Middlware 2007*, Newport Beach, CA, USA
+  * [**SIPHoc: Efficient SIP Middleware for ad hoc networks**](https://dl.acm.org/citation.cfm?id=1516130), Patrick Stuedi, Marcel Bihr, Alain Remund, Gustavo Alonso, *ACM Middlware 2007*, Newport Beach, CA, USA
 
   * **Recall and precision in distributed bandwidth allocation**, Patrick Stuedi, Gustavo Alonso, *IEEE IWQoS 2007*
 

@@ -35,7 +35,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=T_8XkM
 
   * [**RStore: A Direct-Access DRAM-based Data Store**](https://ieeexplore.ieee.org/abstract/document/7164952), Animesh Trivedi, Patrick Stuedi, Bernard Metzler, Clemens Lutz, Martin Schmatz, Thomas R. Gross. Proceedings of the *35th IEEE International Conference on Distributed Computing Systems (ICDCS’15)*, Columbus, Ohio, USA, 2015.
 
-  * [**A Hybrid I/O Virtualization Framework for RDMA-capable Network Interfaces**](A Hybrid I/O Virtualization Framework for RDMA-capable Network Interfaces), Jonas Pfefferle, Patrick Stuedi, Animesh Trivedi, Bernard Metzler, Ioannis Koltsidas, Thomas R. Gross. Proceedings of the *11th ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environment (VEE’15)*, Istanbul, Turkey, March 2015.
+  * [**A Hybrid I/O Virtualization Framework for RDMA-capable Network Interfaces**](https://dl.acm.org/citation.cfm?id=2731200), Jonas Pfefferle, Patrick Stuedi, Animesh Trivedi, Bernard Metzler, Ioannis Koltsidas, Thomas R. Gross. Proceedings of the *11th ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environment (VEE’15)*, Istanbul, Turkey, March 2015.
 
 ## 2014
 
@@ -51,29 +51,29 @@ You can also browse my <a href="https://scholar.google.com/citations?user=T_8XkM
 
 ## 2012
 
-  * **Wimpy Nodes with 10GbE: Leveraging One-Sided Operations in Soft RDMA to Boost Memcached**,Patrick Stuedi, Animesh Trivedi, Bernard Metzler. Proceedings of the *2012 USENIX conference on Annual Technical Conference (USENIX ATC)*, Boston, USA, June 2012.
+  * [**Wimpy Nodes with 10GbE: Leveraging One-Sided Operations in Soft RDMA to Boost Memcached**](https://dl.acm.org/citation.cfm?id=2342852),Patrick Stuedi, Animesh Trivedi, Bernard Metzler. Proceedings of the *2012 USENIX conference on Annual Technical Conference (USENIX ATC)*, Boston, USA, June 2012.
 
-  * **Pasture: Secure Offline Data Access using Commodity Trusted Hardwdare**,Rama Kotla, Tom Rodeheffer, Indranjit Roy, Patrick Stuedi, Benjamin Wester, *OSDI 2012*, Hollywood, CA, USA
+  * [**Pasture: Secure Offline Data Access using Commodity Trusted Hardwdare**](https://dl.acm.org/citation.cfm?id=2387880.2387912),Rama Kotla, Tom Rodeheffer, Indranjit Roy, Patrick Stuedi, Benjamin Wester, *OSDI 2012*, Hollywood, CA, USA
 
 ## 2011
 
-  * **A Case for RDMA in Clouds: Turning Supercomputer Networking into Commodity**, Animesh Trivedi, Bernard Metzler, Patrick Stuedi. Proceedings of the *2nd ACM SIGOPS Asia-Pacific Workshop on Systems (APSys 2011)*, Shanghai, China, July 2011.
+  * [**A Case for RDMA in Clouds: Turning Supercomputer Networking into Commodity**](https://dl.acm.org/citation.cfm?id=2103820), Animesh Trivedi, Bernard Metzler, Patrick Stuedi. Proceedings of the *2nd ACM SIGOPS Asia-Pacific Workshop on Systems (APSys 2011)*, Shanghai, China, July 2011.
 
-  * **Peer-to-Peer Data Replication Meets Delay Tolerant Networking**, Peter Gilbert, Venugopalan Ramasubramanian, Patrick Stuedi, Doug Terry *ICDCS 2011*
+  * [**Peer-to-Peer Data Replication Meets Delay Tolerant Networking**](https://ieeexplore.ieee.org/document/5961693), Peter Gilbert, Venugopalan Ramasubramanian, Patrick Stuedi, Doug Terry *ICDCS 2011*
 
-  * **Contrail: Enabling Decentralized Social Networks on Smartphones**, Patrick Stuedi, Iqbal Mohomed, Mahesh Balakrishnan, Zhuoqing Morley Mao, Venugopalan Ramasubramanian, Doug Terry, *ACM Middleware 2011*, Lisboa, Portugal
+  * [**Contrail: Enabling Decentralized Social Networks on Smartphones**](https://dl.acm.org/citation.cfm?id=2414338.2414343), Patrick Stuedi, Iqbal Mohomed, Mahesh Balakrishnan, Zhuoqing Morley Mao, Venugopalan Ramasubramanian, Doug Terry, *ACM Middleware 2011*, Lisboa, Portugal
 
 ## 2010
 
-  * **Dox2go: collaborative editing of fidelity reduced documents on mobile devices**, Krishna PN Puttaswamy, Catherine C Marshall, Venugopalan Ramasubramanian, Patrick Stuedi, Doug Terry, *ACM MobiSys 2010*, June 2010, San Francisco, CA, USA
+  * [**Docx2Go: collaborative editing of fidelity reduced documents on mobile devices**](https://dl.acm.org/citation.cfm?id=1814467), Krishna PN Puttaswamy, Catherine C Marshall, Venugopalan Ramasubramanian, Patrick Stuedi, Doug Terry, *ACM MobiSys 2010*, June 2010, San Francisco, CA, USA
 
-  * **Wherestore: Location-based data storage for mobile devices interacting with the cloud**, Patrick Stuedi, Iqbal Mohomed, Doug Terry, *ACM MCS'10*, June 2010, San Francisco, CA, USA
+  * [**Wherestore: Location-based data storage for mobile devices interacting with the cloud**](https://dl.acm.org/citation.cfm?id=1810932), Patrick Stuedi, Iqbal Mohomed, Doug Terry, *ACM MCS'10*, June 2010, San Francisco, CA, USA
 
 ## 2009
 
-  * **The Duality between Message Routing and Epidemic Data Replication.**, Peter Gilbert, Venugopalan Ramasubramanian, Patrick Stuedi, Douglas B Terry, *HotNets 2009*, October 2009, New York, NY, USA
+  * [**The Duality between Message Routing and Epidemic Data Replication**](http://conferences.sigcomm.org/hotnets/2009/papers/hotnets2009-final138.pdf), Peter Gilbert, Venugopalan Ramasubramanian, Patrick Stuedi, Douglas B Terry, *HotNets 2009*, October 2009, New York, NY, USA
 
-  * **Enabling social networking in ad hoc networks of mobile phones**, Emre Sarigöl, Oriana Riva, Patrick Stuedi, Gustavo Alonso, Proceedings of the *VLDB Endowment 2009*
+  * [**Enabling social networking in ad hoc networks of mobile phones**](https://dl.acm.org/citation.cfm?id=1687611), Emre Sarigöl, Oriana Riva, Patrick Stuedi, Gustavo Alonso, Proceedings of the *VLDB Endowment 2009*
 
 ## 2008
 

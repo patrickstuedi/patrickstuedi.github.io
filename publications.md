@@ -11,15 +11,15 @@ You can also browse my <a href="https://scholar.google.com/citations?user=T_8XkM
 
 ## 2019
 
-  * **Unification of Temporary Storage in the NodeKernel Architecture**, Patrick Stuedi, Animesh Trivedi, Jonas Pfefferle, Ana Klimovic, Adrian Schuepbach and Bernard Metzler, Proceedings of the *2019 USENIX Annual Technical Conference (USENIX ATC 19)*, Renton, WA, USA, July 2019. 
+  * [**Unification of Temporary Storage in the NodeKernel Architecture**](https://dl.acm.org/citation.cfm?id=3358872), Patrick Stuedi, Animesh Trivedi, Jonas Pfefferle, Ana Klimovic, Adrian Schuepbach and Bernard Metzler, Proceedings of the *2019 USENIX Annual Technical Conference (USENIX ATC 19)*, Renton, WA, USA, July 2019. 
 
 ## 2018
 
-  * **Pocket: Ephemeral Storage for Serverless Analytics**, Ana Klimovic, Yawen Wang, Christos Kozyrakis, Patrick Stuedi, Animesh Trivedi, Jonas Pfefferle, Proceedings of the *13th USENIX Symposium on Operating Systems Design and Implementation (OSDI 2018)*, Carlsbad, CA, USA, October 2018.
+  * [**Pocket: Ephemeral Storage for Serverless Analytics**](https://dl.acm.org/citation.cfm?id=3291200), Ana Klimovic, Yawen Wang, Christos Kozyrakis, Patrick Stuedi, Animesh Trivedi, Jonas Pfefferle, Proceedings of the *13th USENIX Symposium on Operating Systems Design and Implementation (OSDI 2018)*, Carlsbad, CA, USA, October 2018.
 
-  * **Understanding Ephemeral Storage for Serverless Analytics**, Ana Klimovic, Yawen Wang, Christos Kozyrakis, Patrick Stuedi, Jonas Pfefferle, Animesh Trivedi, Proceedings of the *2018 USENIX Annual Technical Conference (USENIX ATC 18)*, Boston, MA, USA, July 2018. 
+  * [**Understanding Ephemeral Storage for Serverless Analytics**](https://dl.acm.org/citation.cfm?id=3277431), Ana Klimovic, Yawen Wang, Christos Kozyrakis, Patrick Stuedi, Jonas Pfefferle, Animesh Trivedi, Proceedings of the *2018 USENIX Annual Technical Conference (USENIX ATC 18)*, Boston, MA, USA, July 2018. 
 
-  * **Albis: High-Performance File Format for Big Data Systems**, Animesh Trivedi, Patrick Stuedi, Jonas Pfefferle, Adrian Schuepbach, Bernard Metzler, Proceedings of the *2018 USENIX Annual Technical Conference (USENIX ATC 18)*, Boston, MA, USA, July 2018. 
+  * [**Albis: High-Performance File Format for Big Data Systems**](https://dl.acm.org/citation.cfm?id=3277355.3277415), Animesh Trivedi, Patrick Stuedi, Jonas Pfefferle, Adrian Schuepbach, Bernard Metzler, Proceedings of the *2018 USENIX Annual Technical Conference (USENIX ATC 18)*, Boston, MA, USA, July 2018. 
 
 ## 2017
 

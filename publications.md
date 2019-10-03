@@ -25,29 +25,29 @@ You can also browse my <a href="https://scholar.google.com/citations?user=T_8XkM
 
   * [**FlashNet: Flash/Network Stack Co-Design**](https://dl.acm.org/citation.cfm?id=3078477), (Best paper award!) Animesh Trivedi, Nikolas Ioannou, Bernard Metzler, Patrick Stuedi, Jonas Pfefferle, Ioannis Koltsidas, Kornilios Kourtis, Thomas R. Gross. Proceedings of the *10th ACM International Systems and Storage Conference (SYSTOR’17)*, Haifa, Israel, May, 2017.
 
-  * **[Crail: A High-Performance I/O Architecture for Distributed Data Processing](http://sites.computer.org/debull/A17mar/p38.pdf)**, Patrick Stuedi, Animesh Trivedi, Jonas Pfefferle, Radu Stoica, Bernard Metzler, Nikolas Ioannou, Ioannis Koltsidas. In *the IEEE Bulletin of the Technical Committee on Data Engineering*, Special Issue on Distributed Data Management with RDMA, Volume 40, pages 40-52, March, 2017.
+  * [**Crail: A High-Performance I/O Architecture for Distributed Data Processing**](http://sites.computer.org/debull/A17mar/p38.pdf), Patrick Stuedi, Animesh Trivedi, Jonas Pfefferle, Radu Stoica, Bernard Metzler, Nikolas Ioannou, Ioannis Koltsidas. In *the IEEE Bulletin of the Technical Committee on Data Engineering*, Special Issue on Distributed Data Management with RDMA, Volume 40, pages 40-52, March, 2017.
 
 ## 2016
 
-  * **On The [Ir]relevance of Network Performance for Data Processing**, Animesh Trivedi, Patrick Stuedi, Jonas Pfefferle, Radu Stoica, Bernard Metzler, Ioannis Koltsidas, Nikolas Ioannou. Proceedings of the *8th USENIX Workshop on Hot Topics in Cloud Computing (HotCloud‘16)*, Denver, CO, USA, June, 2016.
+  * [**On The [Ir]relevance of Network Performance for Data Processing**](https://dl.acm.org/citation.cfm?id=3027062), Animesh Trivedi, Patrick Stuedi, Jonas Pfefferle, Radu Stoica, Bernard Metzler, Ioannis Koltsidas, Nikolas Ioannou. Proceedings of the *8th USENIX Workshop on Hot Topics in Cloud Computing (HotCloud‘16)*, Denver, CO, USA, June, 2016.
 
 ## 2015
 
-  * **RStore: A Direct-Access DRAM-based Data Store**, Animesh Trivedi, Patrick Stuedi, Bernard Metzler, Clemens Lutz, Martin Schmatz, Thomas R. Gross. Proceedings of the *35th IEEE International Conference on Distributed Computing Systems (ICDCS’15)*, Columbus, Ohio, USA, 2015.
+  * [**RStore: A Direct-Access DRAM-based Data Store**](https://ieeexplore.ieee.org/abstract/document/7164952), Animesh Trivedi, Patrick Stuedi, Bernard Metzler, Clemens Lutz, Martin Schmatz, Thomas R. Gross. Proceedings of the *35th IEEE International Conference on Distributed Computing Systems (ICDCS’15)*, Columbus, Ohio, USA, 2015.
 
-  * **A Hybrid I/O Virtualization Framework for RDMA-capable Network Interfaces**, Jonas Pfefferle, Patrick Stuedi, Animesh Trivedi, Bernard Metzler, Ioannis Koltsidas, Thomas R. Gross. Proceedings of the *11th ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environment (VEE’15)*, Istanbul, Turkey, March 2015.
+  * [**A Hybrid I/O Virtualization Framework for RDMA-capable Network Interfaces**](A Hybrid I/O Virtualization Framework for RDMA-capable Network Interfaces), Jonas Pfefferle, Patrick Stuedi, Animesh Trivedi, Bernard Metzler, Ioannis Koltsidas, Thomas R. Gross. Proceedings of the *11th ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environment (VEE’15)*, Istanbul, Turkey, March 2015.
 
 ## 2014
 
-  * **DaRPC: Data Center RPC**, Patrick Stuedi, Animesh Trivedi, Bernard Metzler, Jonas Pfefferle. Proceedings of the *5th ACM Symposium on Cloud Computing 2014 (SoCC’14)*, Seattle, WA, USA, November 2014.
+  * [**DaRPC: Data Center RPC**](https://dl.acm.org/citation.cfm?id=2670994), Patrick Stuedi, Animesh Trivedi, Bernard Metzler, Jonas Pfefferle. Proceedings of the *5th ACM Symposium on Cloud Computing 2014 (SoCC’14)*, Seattle, WA, USA, November 2014.
 
 ## 2013
 
-  * **On Limitations of Network Acceleration**, Animesh Trivedi, Bernard Metzler, Patrick Stuedi, and Thomas R. Gross. Proceedings of the *9th International Conference on emerging Networking EXperiments and Technologies (CoNEXT’13)*, Santa Barbara, CA, USA, December 2013.
+  * [**On Limitations of Network Acceleration**](http://conferences.sigcomm.org/co-next/2013/program/p121.pdf), Animesh Trivedi, Bernard Metzler, Patrick Stuedi, and Thomas R. Gross. Proceedings of the *9th International Conference on emerging Networking EXperiments and Technologies (CoNEXT’13)*, Santa Barbara, CA, USA, December 2013.
 
-  * **jVerbs: Ultra-low Latency for Data Center Applications**, Patrick Stuedi, Bernard Metzler, Animesh Trivedi. Proceedings of the *4th ACM Symposium on Cloud Computing 2013 (SoCC’13)*, Santa Clara, CA, USA, October 2013.
+  * [**jVerbs: Ultra-low Latency for Data Center Applications**](https://dl.acm.org/citation.cfm?id=2523631), Patrick Stuedi, Bernard Metzler, Animesh Trivedi. Proceedings of the *4th ACM Symposium on Cloud Computing 2013 (SoCC’13)*, Santa Clara, CA, USA, October 2013.
 
-  * **Uniﬁed High-Performance I/O: One Stack to Rule Them All**, Animesh Trivedi, Patrick Stuedi, Bernard Metzler, Roman Pletka, Blake G. Fitch, Thomas R. Gross. Proceedings of the *14th Workshop on Hot Topics in Operating Systems (HotOS XIV)*, Santa Ana Pueblo, NM, USA, May 2013.
+  * [**Uniﬁed High-Performance I/O: One Stack to Rule Them All**](https://dl.acm.org/citation.cfm?id=2490487), Animesh Trivedi, Patrick Stuedi, Bernard Metzler, Roman Pletka, Blake G. Fitch, Thomas R. Gross. Proceedings of the *14th Workshop on Hot Topics in Operating Systems (HotOS XIV)*, Santa Ana Pueblo, NM, USA, May 2013.
 
 ## 2012
 

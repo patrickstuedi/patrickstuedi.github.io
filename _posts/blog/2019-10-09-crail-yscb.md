@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Benchmarking Crail using the YCSB benchmark
+category: blog
 description: "How to benchmark Crail using the YCSB benchmark."
 comments: true
 ---

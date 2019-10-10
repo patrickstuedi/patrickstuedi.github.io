@@ -15,12 +15,12 @@ I'm a member of the research staff at IBM research Zurich. My research interests
     {% if post.shortnews %}
         <li class="shortnews">
             <span class="date">{{ post.date | date: "%B %-d, %Y" }}</span>
-            {{ post.content }}
+            &raquo; {{ post.title }}
         </li>
     {% else %}
         <li class="bloglink">
             <span class="date">{{ post.date | date: "%B %-d, %Y" }}</span>
-             &raquo; {{ post.content }}
+             &raquo; {{ post.title }}
         </li>
     {% endif %}
 {% endfor %}

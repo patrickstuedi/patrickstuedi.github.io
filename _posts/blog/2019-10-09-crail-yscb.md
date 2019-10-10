@@ -7,5 +7,5 @@ comments: false
 ---
 
 
-This post has be published on the <a href="http://crail.incubator.apache.org/blog/2019/10/ycsb.html">Crail website</a>
+This post has been published on the <a href="http://crail.incubator.apache.org/blog/2019/10/ycsb.html">Crail website</a>
 

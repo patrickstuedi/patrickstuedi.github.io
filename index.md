@@ -12,17 +12,10 @@ I'm a member of the research staff at IBM research Zurich. My research interests
 ### News
 <ul class="news list-unstyled">
 {% for post in site.categories.news limit: site.front_page_news %}
-    {% if post.shortnews %}
-        <li class="shortnews">
-            <span class="date">{{ post.date | date: "%B %-d, %Y" }}</span>
-            &raquo; {{ post.title }}
-        </li>
-    {% else %}
-        <li class="bloglink">
-            <span class="date">{{ post.date | date: "%B %-d, %Y" }}</span>
-            &raquo; {{ post.title }}
-        </li>
-    {% endif %}
+    <li class="shortnews">
+        <span class="date">{{ post.date | date: "%B %-d, %Y" }}</span>
+        &raquo; {{ post.title }}
+    </li>
 {% endfor %}
 </ul>
 {% assign numposts = site.categories.news | size %}

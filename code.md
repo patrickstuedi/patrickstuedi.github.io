@@ -21,6 +21,13 @@ Crail is a distributed data store for ephemeral data designed from scratch for f
 
 Crail Native is a C++/Python implementation of Crail geared towards fast distributed temporary storage in machine learning worklflows. Crail Native is compatible with Apache Crail and can be used as a temporary storage space in job pipelines consisting of different frameworks. For instance, in a image recognition model training worklflow a Spark job may be used to pre-process raw image data and store it on Apache Crail, followed by a distributed Tensorflow job running the actual training using Crail Native to access the pre-processed data set.  
 
+
+### Pocket
+
+Pocket is a storage system designed for ephemeral data sharing in serverless applications. One of the unique properties of Pocket is its ability to autoconfigure itself based on the application needs. For instance, Pocket will automatically provision the right amount of DRAM, Flash and Disk storage taking into consideration the latency and throughput characteristics of the application. Pocket also dynamically scales in/out based on the application load. I contributed the parts of the Pocket's client library including new storage backends leveraging [ReFlex](https://web.stanford.edu/~anakli/pdf/reflex.pdf) for fast remote Flash access. 
+
+[https://github.com/stanford-mast/pocket](https://github.com/stanford-mast/pocket)
+
 ### DiSNI
 
 DiSNI is a Java library for direct storage and networking access from userspace. It provides an RDMA interface to access remote memory. DiSNI enables the development of Java applications for high performance RDMA networks, such as InfiniBand, iWARP, or RoCE. The RDMA API is implemented based on the Open Fabrics Enterprise Distribution (OFED) RDMA user libraries. It provides RDMA semantics including asynchronous operations, zero-copy transmission and direct data placement. 

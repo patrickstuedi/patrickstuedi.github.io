@@ -25,7 +25,7 @@ Crail Native is a C++/Python implementation of Crail geared towards fast distrib
 ### Pocket
 
 Pocket is a storage system designed for ephemeral data sharing in serverless applications. One of the unique properties of Pocket is its ability to autoconfigure itself based on the application needs. For instance, Pocket will automatically provision the right amount of DRAM, Flash and Disk storage taking into consideration the latency and throughput characteristics of the application. Pocket also dynamically scales in/out based on the application load. I contributed the parts of the Pocket's client library including new storage backends leveraging [ReFlex](https://web.stanford.edu/~anakli/pdf/reflex.pdf) for fast remote Flash access. 
-
+<br><br>
 [https://github.com/stanford-mast/pocket](https://github.com/stanford-mast/pocket)
 
 ### DiSNI

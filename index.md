@@ -40,7 +40,7 @@ I'm a researcher and system's builder in the area of distributed systems, networ
   
 ### Program Committes
 
-USENIX ATC'20, ASPLOS'20 (ERC), USENIX ATC'19, ASPLOS'19 (ERC), USENIX ATC'18, SoCC'18, SoCC'17, Systor'17, ICDCS'14, ICDCS'11, ICDCS'10
+SoCC'20, USENIX ATC'20, ASPLOS'20 (ERC), USENIX ATC'19, ASPLOS'19 (ERC), USENIX ATC'18, SoCC'18, SoCC'17, Systor'17, ICDCS'14, ICDCS'11, ICDCS'10
 
 ### Teaching
 

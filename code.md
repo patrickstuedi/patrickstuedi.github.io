@@ -20,7 +20,7 @@ Crail is a distributed data store for ephemeral data designed from scratch for f
 ### Crail Native
 
 Crail Native is a C++/Python implementation of Crail geared towards fast distributed temporary storage in machine learning worklflows. Crail Native is compatible with Apache Crail and can be used as a temporary storage space in job pipelines consisting of different frameworks. For instance, in a image recognition model training worklflow a Spark job may be used to pre-process raw image data and store it on Apache Crail, followed by a distributed Tensorflow job running the actual training using Crail Native to access the pre-processed data set.  
-<br><br>
+<br>
 [https://github.com/patrickstuedi/crailnative](https://github.com/patrickstuedi/crailnative)
 
 ### Pocket

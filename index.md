@@ -32,6 +32,7 @@ I'm a researcher and system's builder in the area of distributed systems, networ
 
 ### Recent Talks
 
+  * [**Handling 100Gb/s RDMA and NVMe in Apache Crail and Pocket **](https://patrickstuedi.github.io/talks/crail-pocket.pdf), *LinkedIn*, Sunnyvale, USA, February 2021.
   * [**Unification of Temporary Storage in the NodeKernel Architecture**](https://www.usenix.org/conference/atc19/presentation/stuedi), *USENIX ATC 19*, Renton, WA, USA, July 2019.
   * [**Data Processing at the Speed of 100Gpbs using Apache Crail**](https://conferences.oreilly.com/strata/strata-ca-2019/public/schedule/detail/71902), *Oreilly Strata*, San Francisco, CA, USA, Februrary 2019.
   * [**COMPASS Talk about Apache Crail**](https://www.systems.ethz.ch/node/1321), *ETH Zurich*, Zurich, Switzerland, September 2018.

@@ -9,7 +9,7 @@ image:
 I'm a former Software Engineer at Meta working at the intersection of data processing, networking and machine learning. Previously I've been at Confluent, LinkedIn, IBM Research and Microsoft Research. I received a PhD from ETH Zurich in 2008. Currently, I live in Los Angeles, California.<br/><br/>The general theme of my work is to explore how modern networking and storage hardware can be exploited in distributed systems. At Meta, I worked on DPP, Meta's data loader for ML training, supporting ML data preprocessing at scale. In the past, I've been working on [Crail](http://crail.apache.org), a fast distributed data store designed from the ground up for fast storage (DRAM, NVMe, PCM) and networking hardware (100Gb/s RDMA, NVMf). Crail is built upon principles of user-level I/O and primarily targets fast sharing of ephemeral data over disaggregated storage in distributed data processing workloads (Spark, Tensorflow, Ray, serverless workloads, etc.).<br/><br/>These days I work on data infrastructure for agents:
 
 * **Ember**: large-scale data processing designed to be used by agents - [github.com/agentic-data-infra/ember](https://github.com/agentic-data-infra/ember)
-* **Kiln**: high-performance, tiered and versioned distributed chunk store designed for agentic workflows - [github.com/agentic-data-infra/kiln](https://github.com/agentic-data-infra/kiln)
+* **Kiln**: low-latency, versioned distributed chunk store designed for agentic workflows - [github.com/agentic-data-infra/kiln](https://github.com/agentic-data-infra/kiln)
 
 ### News
 <ul class="news list-unstyled">

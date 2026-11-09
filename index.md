@@ -10,6 +10,7 @@ I'm a former Software Engineer at Meta working at the intersection of data proce
 
 * **Ember**: large-scale data processing designed to be used by agents - [github.com/agentic-data-infra/ember](https://github.com/agentic-data-infra/ember)
 * **Kiln**: low-latency, versioned distributed chunk store designed for agentic workflows - [github.com/agentic-data-infra/kiln](https://github.com/agentic-data-infra/kiln)
+* **Stoke**: distributed PyTorch dataloader based on Ember (supporting RDMA and GPUs) - [github.com/agentic-data-infra/kiln](https://github.com/agentic-data-infra/stoke)
 
 ### News
 <ul class="news list-unstyled">

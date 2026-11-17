@@ -38,9 +38,6 @@ I'm a former Software Engineer at Meta working at the intersection of data proce
   * [**Handling 100Gb/s RDMA and NVMe in Apache Crail and Pocket**](https://patrickstuedi.github.io/talks/crail-pocket.pdf), *LinkedIn*, Sunnyvale, USA, February 2021.
   * [**Unification of Temporary Storage in the NodeKernel Architecture**](https://www.usenix.org/conference/atc19/presentation/stuedi), *USENIX ATC 19*, Renton, WA, USA, July 2019.
   * [**Data Processing at the Speed of 100Gpbs using Apache Crail**](https://conferences.oreilly.com/strata/strata-ca-2019/public/schedule/detail/71902), *Oreilly Strata*, San Francisco, CA, USA, Februrary 2019.
-  * [**COMPASS Talk about Apache Crail**](https://www.systems.ethz.ch/node/1321), *ETH Zurich*, Zurich, Switzerland, September 2018.
-  * [**Serverless Machine Learning on Modern Hardware Using Apache Spark**](https://databricks.com/session/serverless-machine-learning-on-modern-hardware-using-apache-spark), *Spark Summit*, San Francisco, CA, June 2018.
-  * [**Running Apache Spark on a High-Performance Cluster Using RDMA and NVMe Flash**](https://databricks.com/session/running-apache-spark-on-a-high-performance-cluster-using-rdma-and-nvme-flash), *Spark Summit*, San Francisco, CA, June 2017.
   
 ### Program Committes
 
